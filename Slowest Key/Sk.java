@@ -1,4 +1,5 @@
 public class Sk{
+    // 17+ times asked
     public char slowestKey(int[] rt, String keypress) {
         int maxTime = rt[0];
         char result = keypress.charAt(0);
