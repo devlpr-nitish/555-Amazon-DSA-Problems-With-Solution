@@ -7,6 +7,7 @@
 6. [***Matrix Diagonal Sum***] ( https://leetcode.com/problems/matrix-diagonal-sum/ )<br>
 7. [***Binary Search***] ( https://leetcode.com/problems/binary-search/ )<br>
 8. [***Fibonacci Number***] ( https://leetcode.com/problems/fibonacci-number/ )<br>
+9. [***0 1 Matrix***] ( https://leetcode.com/problems/01-matrix/ )<br>
 
 #### by :- Nitish Kumar ❤️ ####
 #### LinkedIn (https://www.linkedin.com/in/devplr-nitish/) 👍 ####
