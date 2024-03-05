@@ -12,8 +12,6 @@ public class MDS {
                 sum+=mat[i][n-1-i];
             }
         }
-             
-
         return sum;
     }
 }
