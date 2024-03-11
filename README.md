@@ -11,6 +11,7 @@
 10. [***Peak Index in a Mountain Array***] ( https://leetcode.com/problems/peak-index-in-a-mountain-array/ )[***Medium***]<br>
 11. [***Maximum Length of Subarray With Positive Product***] ( https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/ )[***Medium***]<br>
 12. [***Minimum Average Difference***] ( https://leetcode.com/problems/minimum-average-difference/ )[***Medium***]<br>
+12. [***Add Two Numbers***] ( https://leetcode.com/problems/add-two-numbers/ )[***Medium***]<br>
 
 
 #### by :- Nitish Kumar ❤️ ####
