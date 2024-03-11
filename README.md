@@ -1,5 +1,5 @@
 ### LEETCODE Problem name , Link and Type ✅ ###
-1. [***ROTTING ORANGES***]( https://leetcode.com/problems/rotting-oranges/ )    [***Medium***]<br>
+1. [***ROTTING ORANGES***]( <a href="https://leetcode.com/problems/rotting-oranges/" target="_blank"></a> )    [***Medium***]<br>
 2. [***Maximum Twin Sum of a Linked List***]( https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/ )    [***Medium***]<br>
 3. [***Maximun Units On a Truck***]( https://leetcode.com/problems/maximum-units-on-a-truck/ )  [***Easy***]<br>
 4. [***Slowest Key***]( https://leetcode.com/problems/slowest-key/ )    [***Easy***]<br>
