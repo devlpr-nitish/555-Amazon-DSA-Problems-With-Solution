@@ -15,6 +15,7 @@
 14. [***Longest Substring Without Repeating Characters***]( https://leetcode.com/problems/longest-substring-without-repeating-characters/ ) [***Medium***]<br>
 15. [***Median of Two Sorted Arrays***]( https://leetcode.com/problems/median-of-two-sorted-arrays/ ) [***Hard***]<br>
 16. [***Longest Palindromic Substring***]( https://leetcode.com/problems/longest-palindromic-substring/ ) [***Medium***]<br>
+17. [***Zigzag Conversion***]( https://leetcode.com/problems/zigzag-conversion/ ) [***Medium***]<br>
 
 
 #### by :- Nitish Kumar ❤️ ####
