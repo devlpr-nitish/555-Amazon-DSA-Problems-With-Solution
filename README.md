@@ -17,6 +17,7 @@
 16. [***Longest Palindromic Substring***]( https://leetcode.com/problems/longest-palindromic-substring/ ) [***Medium***]<br>
 17. [***Zigzag Conversion***]( https://leetcode.com/problems/zigzag-conversion/ ) [***Medium***]<br>
 18. [***Reverse Integer***]( https://leetcode.com/problems/reverse-integer/ ) [***Medium***]<br>
+19. [***Number of Enclaves***]( https://leetcode.com/problems/number-of-enclaves/ ) [***Medium***]<br>
 
 
 #### by :- Nitish Kumar ❤️ ####
